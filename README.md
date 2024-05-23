@@ -1,6 +1,6 @@
 <p align=center>
   <br>
-  <a href="https://github.com/resistec" target="_blank"><img src="https://"/></a>
+  <a href="https://github.com/resistec" target="_blank"><img src="https://github.com/resistec/poison/blob/main/banner.png"/></a>
   <br>
   <span>Speed up your POI investigations with Poison!</a></span>
   <br>
